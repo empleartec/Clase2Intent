@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Clase2Intent</string>
+    <string name="title_activity_primer">PrimerActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_segundo">SegundoActivity</string>
+    <string name="tu_nombre">Tu Nombre</string>
+
+</resources>
